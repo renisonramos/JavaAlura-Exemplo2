@@ -1,4 +1,4 @@
-# Repositório: JavaAlura-Exemplos2
+# Repositório: JavaAlura-Exemplo2
 
 Este repositório contém exemplos simples de código Java criados durante o curso da Alura. Os exemplos abrangem conceitos básicos da linguagem, como entrada e saída de dados, estruturas de controle e manipulação de dados.
 
